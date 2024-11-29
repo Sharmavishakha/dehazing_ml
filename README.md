@@ -4,6 +4,8 @@
 ## Vishakha Sharma(102203563)
 ## Gurvinder Singh(102203149)
 
+Dataset used - https://drive.google.com/drive/folders/1q01_uzR-xDxrK1mrDbLPpy8k07LSJt8b?usp=sharing
+
 The provided code appears to be a Jupyter Notebook for a deep learning project focused on image dehazing. The goal of this project is to remove haze from images using deep learning techniques, specifically through the use of Convolutional Neural Networks (CNNs). Below is a breakdown of the key components and functions in the code:
 
 1. Imports and Setup
@@ -51,3 +53,4 @@ The notebook includes cells to execute the defined functions, load the dataset, 
 
 Summary
 Overall, this notebook implements a complete pipeline for dehazing images using deep learning. It involves loading and preparing a dataset, defining and training models, applying image processing techniques, and visualizing the results. The use of guided filtering and residual learning helps improve the quality of the dehazed images.
+
