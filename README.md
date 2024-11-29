@@ -1,4 +1,7 @@
 # dehazing_ml
+
+# Submitted by - Vishakha Sharma(102203563), Gurvinder Singh(102203149)
+
 The provided code appears to be a Jupyter Notebook for a deep learning project focused on image dehazing. The goal of this project is to remove haze from images using deep learning techniques, specifically through the use of Convolutional Neural Networks (CNNs). Below is a breakdown of the key components and functions in the code:
 
 1. Imports and Setup
